@@ -1,3 +1,13 @@
+## Belajar Fullstack NextJS
+
+Dari yt array id https://www.youtube.com/watch?v=kproo1ezjH0&t=803s
+
+_Ada error client-side exception ketika dijalankan setelah build dengan yarn start._
+
+_Hanya bisa berjalan secara normal dengan yarn dev_
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
