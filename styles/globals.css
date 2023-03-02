@@ -1,0 +1,33 @@
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+html,
+body {
+	margin: 0 auto;
+	max-width: 420px;
+	padding: 20px;
+	overflow-x: hidden;
+	font-family: sans-serif;
+	color: #ddd;
+	background: #222;
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+}
+
+.form {
+	margin-top: 20px;
+}
+
+h1 {
+	color: #fff;
+}
+
+hr {
+	border-color: #333;
+}
